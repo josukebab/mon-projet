@@ -101,6 +101,7 @@ body {
     background-color: rgb(180, 180, 180);
     background-size:150%;
     border-radius: 200px;
+    color: rgb(143, 33, 33);
 }
 
 .Mugen2 {
@@ -158,6 +159,7 @@ body {
     border: rgb(180, 180, 180);
     border-radius: 200px;
     padding-right:400px;
+    color: rgb(27, 27, 73);
 
 
 }
@@ -181,6 +183,7 @@ body {
     background-size:150%;
     border: rgb(180, 180, 180);
     border-radius: 200px;
+    color:rgb(163, 71, 86);
 }
 .Fuu2{
     position: relative;
@@ -197,10 +200,10 @@ body {
 .definition{
     position: relative;
     top: 900px;
-    left: 40px;
+    left: 20%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    text-align:justify;
+    text-align:left;
     font-weight: 200;
     width:1200px;
     border:solid;
@@ -211,8 +214,8 @@ body {
 .opening {
     position: relative;
     top: 1000px;
-    left:320px;
-    text-align: center;
+    left: 35%;
+    margin-left: auto;
 }
 
 .opening2 {
